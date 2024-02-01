@@ -1,0 +1,77 @@
+header{
+    background-color: rgb(194, 49, 81);
+    padding: 20px 15px;
+}
+body {
+    background-color: burlywood;
+}
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+h3 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.todo1 {
+    display: flex;
+}
+.img1{
+    display: flex;
+    margin: auto;
+    padding: 35px;
+    
+}
+img {
+    width: 400px;
+    height: 400px;
+    transition: 0.5s;
+}
+img:hover{
+    transform: scale(1.1);
+}
+p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.album {
+    background-color: gainsboro;
+    padding: 15px;
+}
+.vudu {
+    background-color: gainsboro;
+    padding: 15px;
+}
+.milagrosa{
+    background-color: gainsboro;
+    padding: 15px;
+}
+.todo2 {
+    display: flex;
+}
+.todo3{
+    display: flex;
+    justify-content: flex-end;
+}
+.canciones1{
+    background-color: rgb(223, 70, 103);
+    margin-left: 300px;
+}
+.canciones2{
+    background-color: rgb(223, 70, 103);
+    margin: auto;
+}
+.canciones3{
+    background-color: rgb(223, 70, 103);
+    margin-right: 300px;
+    
+}
+.letra1 {
+    background-color: gainsboro;
+    padding: 15px 25px;
+}
+a {
+    text-decoration: none;
+}
